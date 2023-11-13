@@ -1,0 +1,5 @@
+[+] Building 66.9s (8/8) FINISHED                     0.1s
+<Snip>
+==> Successfully built 6a94df2125ea
+==> Successfully tagged {DockerHubId}/qsk-course:1.0
+# The {DockerHubId} will be replaced by your own DockerHub ID

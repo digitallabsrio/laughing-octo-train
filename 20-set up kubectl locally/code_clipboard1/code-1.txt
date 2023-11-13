@@ -1,0 +1,8 @@
+<Snip>
+
+kubectl version --client -o yaml
+clientVersion:
+  <Snip>
+  major: "1"
+  minor: "20"
+  platform: darwin/amd64

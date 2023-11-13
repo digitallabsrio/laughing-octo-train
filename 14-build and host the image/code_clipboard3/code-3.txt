@@ -1,0 +1,6 @@
+## Remember to substitute `{DockerHubId}` with your own Docker Hub ID
+## Login into your dockerhub account.
+docker login --username <DockerHubId>
+
+## Remember to substitute `{DockerHubId}` with your own Docker Hub ID.
+docker image push {DockerHubId}/qsk-course:1.0

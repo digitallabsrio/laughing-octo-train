@@ -1,0 +1,3 @@
+choco install kubernetes-cli
+
+kubectl version --client -o yaml

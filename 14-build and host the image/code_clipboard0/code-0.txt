@@ -1,0 +1,1 @@
+docker image build -t {DockerHubId}/qsk-course:1.0 .
