@@ -1,0 +1,29 @@
+{
+  "course_name": "Quick Start Kubernetes - Learn Interactively",
+  "course_overview": "Kubernetes helps deploy and manage containerized applications at scale. It abstracts the underlying infrastructure, so it doesn’t matter if you're deploying your applications to Amazon Web Services, Google Cloud, Linode, or your own on-premises datacenter. \n\nIn this course, you’ll learn why we have Kubernetes, what it is, where it’s going, and how to create containerized applications. By the end of this course, you will be ready to tackle more advanced concepts and take your Kubernetes skills to the next level.",
+  "course_folder": "quick start kubernetes",
+  "course_lessons": [
+    "0-what is this course about",
+    "1-learning instruments",
+    "2-what are microservices",
+    "3-what is cloud native",
+    "4-why do we need kubernetes",
+    "5-summary",
+    "6-quiz on kubernetes ecosystem",
+    "7-masters and nodes",
+    "8-more on masters and nodes",
+    "9-kubernetes in the cloud with linode kubernetes engine lke",
+    "10-summary",
+    "11-quiz on kubernetes cluster",
+    "12-introduction to containerization",
+    "13-explore the source code",
+    "14-build and host the image",
+    "15-summary",
+    "16-quiz on containerization",
+    "17-overview and the way forward",
+    "18-kubernetes fun facts",
+    "19-set up kubernetes locally with docker desktop",
+    "20-set up kubectl locally"
+  ],
+  "repo_name": "laughing-octo-train"
+}
